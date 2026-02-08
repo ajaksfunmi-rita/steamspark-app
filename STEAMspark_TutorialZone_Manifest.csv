@@ -1,51 +1,7 @@
-ID,Subject,Topic,Video_Source,Video_Link_Path,Language,Peer_Mentor
-TZ_001,Tech,Introduction to Coding,YouTube,https://www.youtube.com/watch?v=kMu9p6S9X7M,English,Aliyah
-TZ_002,Tech,Building Your First App,System,assets/videos/tech_01_app.mp4,Yoruba,Tunde
-TZ_003,Tech,How the Internet Works,YouTube,https://www.youtube.com/watch?v=Dxcc6ycZ73M,Hausa,Faridah
-TZ_004,Tech,Digital Safety for Kids,System,assets/videos/tech_02_safety.mp4,Igbo,Chidi
-TZ_005,Tech,What is Artificial Intelligence?,YouTube,https://www.youtube.com/watch?v=ad79nYk2keg,English,Aliyah
-TZ_006,Science,The Water Cycle,System,assets/videos/sci_01_water.mp4,Yoruba,Tunde
-TZ_007,Science,Renewable Energy: Solar Power,YouTube,https://www.youtube.com/watch?v=0EL9X1PzHhU,Hausa,Faridah
-TZ_008,Science,Photosynthesis Explained,System,assets/videos/sci_02_plants.mp4,Igbo,Chidi
-TZ_009,Science,States of Matter,YouTube,https://www.youtube.com/watch?v=npv74D2MO6Q,English,Aliyah
-TZ_010,Science,Basic Human Anatomy,System,assets/videos/sci_03_body.mp4,Yoruba,Tunde
-TZ_011,Engineering,How Bridges are Built,YouTube,https://www.youtube.com/watch?v=mDBy6T5uJ_o,Hausa,Faridah
-TZ_012,Engineering,Simple Machines in the Home,System,assets/videos/eng_01_machines.mp4,Igbo,Chidi
-TZ_013,Engineering,Principles of Flight,YouTube,https://www.youtube.com/watch?v=GjE7umDLP_U,English,Aliyah
-TZ_014,Engineering,Sustainable Building Materials,System,assets/videos/eng_02_eco.mp4,Yoruba,Tunde
-TZ_015,Engineering,Basics of Circuit Design,YouTube,https://www.youtube.com/watch?v=Yk88_3k08u4,Hausa,Faridah
-TZ_016,Math,Understanding Fractions,System,assets/videos/math_01_frac.mp4,Igbo,Chidi
-TZ_017,Math,Geometry in Architecture,YouTube,https://www.youtube.com/watch?v=6m6tXWn-o_w,English,Aliyah
-TZ_018,Math,Long Division Made Easy,System,assets/videos/math_02_div.mp4,Yoruba,Tunde
-TZ_019,Math,Probability and Games,YouTube,https://www.youtube.com/watch?v=uzkc-qNVoOk,Hausa,Faridah
-TZ_020,Math,Introduction to Algebra,System,assets/videos/math_03_alg.mp4,Igbo,Chidi
-TZ_021,Science,Advanced Science Lesson 21,System,assets/videos/science_21.mp4,Yoruba,Tunde
-TZ_022,Engineering,Advanced Engineering Lesson 22,YouTube,https://www.youtube.com/watch?v=placeholder22,Hausa,Faridah
-TZ_023,Math,Advanced Math Lesson 23,System,assets/videos/math_23.mp4,Igbo,Chidi
-TZ_024,Sustainability,Advanced Sustainability Lesson 24,YouTube,https://www.youtube.com/watch?v=placeholder24,English,Amina
-TZ_025,Tech,Advanced Tech Lesson 25,System,assets/videos/tech_25.mp4,English,Aliyah
-TZ_026,Science,Advanced Science Lesson 26,YouTube,https://www.youtube.com/watch?v=placeholder26,Yoruba,Tunde
-TZ_027,Engineering,Advanced Engineering Lesson 27,System,assets/videos/engineering_27.mp4,Hausa,Faridah
-TZ_028,Math,Advanced Math Lesson 28,YouTube,https://www.youtube.com/watch?v=placeholder28,Igbo,Chidi
-TZ_029,Sustainability,Advanced Sustainability Lesson 29,System,assets/videos/sustainability_29.mp4,English,Amina
-TZ_030,Tech,Advanced Tech Lesson 30,YouTube,https://www.youtube.com/watch?v=placeholder30,English,Aliyah
-TZ_031,Science,Advanced Science Lesson 31,System,assets/videos/science_31.mp4,Yoruba,Tunde
-TZ_032,Engineering,Advanced Engineering Lesson 32,YouTube,https://www.youtube.com/watch?v=placeholder32,Hausa,Faridah
-TZ_033,Math,Advanced Math Lesson 33,System,assets/videos/math_33.mp4,Igbo,Chidi
-TZ_034,Sustainability,Advanced Sustainability Lesson 34,YouTube,https://www.youtube.com/watch?v=placeholder34,English,Amina
-TZ_035,Tech,Advanced Tech Lesson 35,System,assets/videos/tech_35.mp4,English,Aliyah
-TZ_036,Science,Advanced Science Lesson 36,YouTube,https://www.youtube.com/watch?v=placeholder36,Yoruba,Tunde
-TZ_037,Engineering,Advanced Engineering Lesson 37,System,assets/videos/engineering_37.mp4,Hausa,Faridah
-TZ_038,Math,Advanced Math Lesson 38,YouTube,https://www.youtube.com/watch?v=placeholder38,Igbo,Chidi
-TZ_039,Sustainability,Advanced Sustainability Lesson 39,System,assets/videos/sustainability_39.mp4,English,Amina
-TZ_040,Tech,Advanced Tech Lesson 40,YouTube,https://www.youtube.com/watch?v=placeholder40,English,Aliyah
-TZ_041,Science,Advanced Science Lesson 41,System,assets/videos/science_41.mp4,Yoruba,Tunde
-TZ_042,Engineering,Advanced Engineering Lesson 42,YouTube,https://www.youtube.com/watch?v=placeholder42,Hausa,Faridah
-TZ_043,Math,Advanced Math Lesson 43,System,assets/videos/math_43.mp4,Igbo,Chidi
-TZ_044,Sustainability,Advanced Sustainability Lesson 44,YouTube,https://www.youtube.com/watch?v=placeholder44,English,Amina
-TZ_045,Tech,Advanced Tech Lesson 45,System,assets/videos/tech_45.mp4,English,Aliyah
-TZ_046,Science,Advanced Science Lesson 46,YouTube,https://www.youtube.com/watch?v=placeholder46,Yoruba,Tunde
-TZ_047,Engineering,Advanced Engineering Lesson 47,System,assets/videos/engineering_47.mp4,Hausa,Faridah
-TZ_048,Math,Advanced Math Lesson 48,YouTube,https://www.youtube.com/watch?v=placeholder48,Igbo,Chidi
-TZ_049,Sustainability,Advanced Sustainability Lesson 49,System,assets/videos/sustainability_49.mp4,English,Amina
-TZ_050,Tech,Advanced Tech Lesson 50,YouTube,https://www.youtube.com/watch?v=placeholder50,English,Aliyah
+Subject,Title_EN,Link_EN,Title_YO,Link_YO,Title_HA,Link_HA,Title_IG,Link_IG
+Science,Photosynthesis Basics,https://www.youtube.com/watch?v=UPBMG5EYPdk,Ìpìlẹ̀ Photosynthesis,https://www.youtube.com/watch?v=UPBMG5EYPdk,Tushen Photosynthesis,https://www.youtube.com/watch?v=UPBMG5EYPdk,Ntọala Photosynthesis,https://www.youtube.com/watch?v=UPBMG5EYPdk
+Science,The Water Cycle,https://www.youtube.com/watch?v=ncORPosDrjI,Èyípo Omi,https://www.youtube.com/watch?v=ncORPosDrjI,Zagayowar Ruwa,https://www.youtube.com/watch?v=ncORPosDrjI,Usoro Okirikiri Mmiri,https://www.youtube.com/watch?v=ncORPosDrjI
+Technology,How the Internet Works,https://www.youtube.com/watch?v=Dxcc6ycZ73M,Bí Íńtánẹ́ẹ̀tì ṣe ń ṣiṣẹ́,https://www.youtube.com/watch?v=Dxcc6ycZ73M,Yadda Intanet Ke Aiki,https://www.youtube.com/watch?v=Dxcc6ycZ73M,Otu Internet si arụ ọrụ,https://www.youtube.com/watch?v=Dxcc6ycZ73M
+Technology,Introduction to Coding for Kids,https://www.youtube.com/watch?v=vLqTf2b6zVw,Ìfọ̀rọ̀sélò Kọ̀m̀pútà,https://www.youtube.com/watch?v=vLqTf2b6zVw,Gabatarwa ga Coding,https://www.youtube.com/watch?v=vLqTf2b6zVw,Mbido Koodu,https://www.youtube.com/watch?v=vLqTf2b6zVw
+Technology,What is AI? (Artificial Intelligence),https://www.youtube.com/watch?v=mJeNghnytWw,Kí ni AI?,https://www.youtube.com/watch?v=mJeNghnytWw,Menene AI?,https://www.youtube.com/watch?v=mJeNghnytWw,Gịnị bụ AI?,https://www.youtube.com/watch?v=mJeNghnytWw
+Technology,Simple Machines,https://www.youtube.com/watch?v=fvOmaf2GfCY,Àwọn Ẹ̀rọ Rọrun,https://www.youtube.com/watch?v=fvOmaf2GfCY,Sauƙaƙan Injinan,https://www.youtube.com/watch?v=fvOmaf2GfCY,Igwe Ndị Dị Mfe,https://www.youtube.com/watch?v=fvOmaf2GfCY
