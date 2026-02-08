@@ -1,0 +1,51 @@
+ID,Theme,English,Yoruba,Hausa,Igbo,Logic
+IQ_001,Persistence,Slow and steady wins the race,Sùúrù lérè,Hankali-hankali kwando ke cika,Ngwaya ngwaya ka a na-arị elu,Consistent effort leads to success
+IQ_002,Cause/Effect,"As you sow, so shall you reap",Ohun tí o bá gbìn ni wàá ká,"Abin da ka shuka, shi zaka girba","Ihe onye kụrụ, ọ ga-aghọrọ",Actions determine results
+IQ_003,Preparation,Make hay while the sun shines,Ṣiṣẹ́ nígbà tí oòrùn bá ń ràn,Yi aiki sa'ilin da rana take haske,Jiri ehihie chụọ atụrụ ojii,Take opportunities immediately
+IQ_004,Cooperation,Many hands make light work,Ọwọ́ púpọ̀ ní ń mú iṣẹ́ fúyẹ́,Hannu da yawa suke sa aiki ya yi sauƙi,Aka nri kwọọ aka ekpe,Teamwork increases efficiency
+IQ_005,Wisdom,A bird in hand is worth two in the bush,Adìẹ ìrànà ní ń ṣáájú òkú,Gwara guda a hannu da biyu a daji,Ihe dị n'aka ka mma,Value certainties over risks
+IQ_006,Patience,Patience is a virtue,Onísùúrù ní ń jẹun gbeṣẹ,Haƙuri maganin kowa,Onye nwere ndidi na-eri azụ n'ụzọ,Waiting calmly brings rewards
+IQ_007,Unity,"United we stand, divided we fall",Àjọjẹ kò dùn bí ẹnìkan kò bá ní,Haɗin kai ƙarfi ne,"Anyị nọkọọ, anyị dị ike",Strength comes from togetherness
+IQ_008,Experience,Experience is the best teacher,Ìrírí ni olùkọ́ tó dára jù lọ,Gani ya kori ji,Ahụmịhe bụ onye nkuzi kachasị mma,Learning from doing is effective
+IQ_009,Consequences,What goes up must come down,Ohun tó bá gòkè yóò bọ̀,Abin da ya hau zai sauka,Ihe rịrị elu ga-adala,Gravity / Cycle of events
+IQ_010,Humility,Pride goes before a fall,Ìgbéraga ní ń ṣáájú ìparun,Girman kai rawanin tsiya,Ịnya isi na-ebute ọdịda,Overconfidence leads to failure
+IQ_011,Observation,Look before you leap,Wòran kí o tó bẹ́ sínú igbó,A yi shawara kafin a fara aiki,Lee ụzọ tupu ị wụọ,Analyze risks before acting
+IQ_012,Adaptability,"When in Rome, do as the Romans do",Ìlú tí a bá dé ni a ń tẹ̀lé òfin rẹ̀,Shiga gari ya fi shiga daji,Ebe onye bi ka ọ na-awachi,Adapt to your environment
+IQ_013,Resourcefulness,"Where there is a will, there is a way","Bí ọkàn bá fẹ́, ọ̀nà yóò là","Inda so yake, akwai hanya","Onye kwe, chi ya ekwe",Determination creates solutions
+IQ_014,Integrity,Honesty is the best policy,Òtítọ́ inú ni òògùn ìṣẹ́,Gaskiya ita ce jagora,Eziokwu na-aga n'ihu,Trust is foundational for logic
+IQ_015,Economy,A stitch in time saves nine,Ṣíṣe nǹkan lásìkò ń dènà ìbàjẹ́,Taka tsantsan tun farko,Ịkwacha n'oge na-egbochi mmebi,Maintenance prevents breakdown
+IQ_016,Growth,"From little acorns, great oaks grow",Ìbẹ̀rẹ̀ kò kọ́mọ,Taro ya fara daga daya,Obere mmalite na-ebute nnukwu ihe,Scaling / Exponential growth
+IQ_017,Focus,Don't count your chickens before they hatch,Má ṣe kàkà kí adìẹ tó pamọ́,Kada ka lissafa kaza kafin ta kyankyashe,Agụla nwa ọkụkọ tupu ọ pụta,Don't assume outcomes prematurely
+IQ_018,Prevention,Prevention is better than cure,Ìdènà sàn ju ìwòsàn lọ,Rigakafi ya fi magani,Imechi ụzọ tupu ohi na-aka mma,Proactive vs Reactive logic
+IQ_019,Diversity,Don't put all your eggs in one basket,Má ṣe fi gbogbo ẹyin rẹ sínú agbọ̀n kan,Kada ka zuba kwanakanka duka a kwando guda,Atụla akwa gị niile n'otu nkata,Risk management / Diversification
+IQ_020,Opportunity,Strike while the iron is hot,Lu irin nígbà tí ó bá ṣì gbóná,Daki karfe tun yana da zafi,Kụọ ígwè mgbe ọ nọ n'ọkụ,Optimal timing for physical change
+IQ_021,Resilience,What doesn't kill you makes you stronger,"Ìpọ́njú kì í pani, ó ń fúnni ní lágbára ni",Wahala tana sa mutum ya kara ƙarfi,Ihe na-egbughị mmadụ na-eme ya ike,Strength through adversity
+IQ_022,Authenticity,All that glitters is not gold,Kì í ṣe gbogbo ohun tó ń dán ló jẹ́ wúrà,Ba duka abin da yake kyalli bane zinariya,Ọ bụghị ihe niile na-egbu maramara bụ ọlaedo,Appearance vs Substance
+IQ_023,Knowledge,Knowledge is power,Ìmọ̀ ni agbára,Ilimi haske ne,Mma bụ ihe ọmụma,Information as a tool
+IQ_024,Cycles,No condition is permanent,"Ayé ń yí, kò sí ohun tó dúró sójú kan",Duniya juyi-juyi ce,Ọnọdụ ọ bụla anaghị adịru mgbe ebighị ebi,Change is a constant variable
+IQ_025,Action,Actions speak louder than words,Ìṣe sọ̀rọ̀ ju ọ̀rọ̀ ẹnu lọ,Aiki ya fi magana,Omume na-ada ụda karịa okwu,Empirical evidence vs theory
+IQ_026,Community,It takes a village to raise a child,Gbogbo abúlé ni ó ń tọ́mọ,Unguwa baki daya take renon yaro,Ọha na-azụ nwa,Systemic support network
+IQ_027,Perspective,Beauty is in the eye of the beholder,Ẹwà wà ní ojú ẹni tó ń wò ó,Kyau yana ga mai kallo,Ịma mma dị n'anya onye na-ele anya,Subjectivity in observation
+IQ_028,Carefulness,Better safe than sorry,Ìṣọ́ra sàn ju ìbámọ̀ lọ,Gwara a yi a hankali da a yi nadama,Ime ihe n'oge ka mma,Risk mitigation
+IQ_029,Order,First things first,Ìṣáájú ni a ń kọ́kọ́ ṣe,A fara daga farko,Mee ihe mbụ n'ụzọ mbụ,Priority and sequencing
+IQ_030,Consistency,Practice makes perfect,Ìfara-mọ́ra ń mú ìjẹ́pípé wá,Yawan maimaita aiki yana sa gwaninta,Ịmụ n'oge na-eme ka mmadụ mara ihe,Iterative learning process
+IQ_031,Time,Time flies,Àkókò ń lọ,Lokaci ba ya jira,Oge na-efe efe,Time as a finite resource
+IQ_032,Equality,What is good for the goose is good for the gander,"Ohun tó dára fún ọkùnrin, ó dára fún obìnrin",Abin da ya dace da wani ya dace da kowa,Ihe dịrị egbe dịrị ugo,Consistency in logic application
+IQ_033,Hope,Every cloud has a silver lining,Ìpọ́njú kò láìsì ìrètí,Bayan wuya akwai sauki,Ihe ọ bụla nwere olileanya,Optimism in system failures
+IQ_034,Generosity,Givers never lack,Olùfúnni kì í ṣaláìní,Mai bayarwa baya rasawa,Onye na-enye ihe anaghị akọ,Reciprocity / Circular economy
+IQ_035,Truth,Truth is bitter,"Kaka kí òtítọ́ bàjẹ́, kí ilẹ̀ san",Gaskiya daci gare ta,Eziokwu na-elu ilu,Objective facts vs Comfort
+IQ_036,Curiosity,Curiosity killed the cat,Ìwádìí àṣejù ń mú ìjám̀bá wá,Yawan bincike yana sa matsala,Ịchọ ịmata ihe gabigara ókè na-eweta mbibi,Safety boundaries in exploration
+IQ_037,Contentment,Cut your coat according to your size,Wọ̀ ọ̀já rẹ gẹ́gẹ́ bí ara rẹ,A yi abin da karfi zai iya,Wepụta akwa gị dị ka ogo gị siri dị,Budgeting and scale
+IQ_038,Punctuality,The early bird catches the worm,Ẹni tó bá jí ní kùtùkùtù ní ń jẹun gbeṣẹ,Wanda ya tashi da wuri shi zai samu,Onye mbụ ruru ọmụmụ ga-enweta ihe,First-mover advantage
+IQ_039,Legacy,A good name is better than gold,Oruko rere san ju wúrà lọ,Suna nagari ya fi zinariya,Ezi aha ka ọlaedo mma,Reputation capital
+IQ_040,Simplicity,Less is more,Ohun tó kéré lè jẹ́ ohun ńlá,Kadan ya fi yawa a wani lokacin,Obere ihe nwere ike ịdị ukwuu,Optimization and efficiency
+IQ_041,Silence,Silence is golden,Ìdákẹ́jẹ́ ni òògùn ọ̀rọ̀,Shiru zinariya ce,Ịgbachi nkịtị dị mma,Value of listening/Signal-to-noise
+IQ_042,Caution,Empty vessels make the most noise,Àpótí òfìfo ní ń dún kíkankíkan,Kada-kada ba ya rasa rami,Ite tọrọ chakoo na-ada ụda,Substance vs Volume
+IQ_043,Courage,Fortune favors the bold,Ìgboyà ni ó ń mú àṣeyọrí wá,Jarunta tana sa rabo,Obi ike na-eweta ihe ọma,Risk-taking in evolution
+IQ_044,Equality,Rome was not built in a day,Ìlú kan kì í dàgbà nímọ́jọ́ kan,Ba a gina gari a rana daya ba,A naghị arụ obodo n'otu ụbọchị,Time-intensive construction
+IQ_045,Nature,You can't judge a book by its cover,Má ṣe dá lẹ́jọ́ nípa ìrísí,Ba a san na ciki ba sai an bude,Atụla akwụkwọ ikpe site na mkpuchi ya,Deep analysis vs heuristics
+IQ_046,Persistence,Never say never,Má ṣe sọ pé ó parí,Kada ka ce ba zai yiwu ba,Asịla na agaghị ekwe omume,Infinite possibilities
+IQ_047,Teamwork,Two heads are better than one,Orí méjì sàn ju ẹyọ kan lọ,Kai biyu ya fi guda daya,Isi abụọ ka mma karịa otu,Parallel processing/Collaboration
+IQ_048,Environment,Cleanliness is next to godliness,Ìmọ́tótó ni òògùn àìsàn,Tsafta tana sa lafiya,Ịdị ọcha dị mma,Hygiene and health systems
+IQ_049,Preparation,Better late than never,"Bí ó bá pẹ́, ó ṣì sàn ju kí ó má ṣẹlẹ̀ lọ",Gwara a zo a makare da a ki zuwa,Ịbịa n'oge na-adịghị mma ka mma karịa ịghara ịbịa,Completion over total failure
+IQ_050,Finality,The end justifies the means,Àbájáde ni ó ń sọ bí iṣẹ́ ṣe rí,Karshe shi ne abin kallo,Njedebe na-egosi ụzọ,Outcome-based evaluation

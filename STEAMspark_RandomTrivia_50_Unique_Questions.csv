@@ -1,0 +1,51 @@
+ID,Category,Question_EN,Question_YO,Question_HA,Question_IG,Answer
+RT_001,Geography,Which is the longest river in Africa?,Odò wo ni ó gùn jù lọ ní Áfíríkà?,Wane kogi ne mafi tsawo a Afirka?,Kedu iyi kachasị ogologo n'Afrịka?,River Nile
+RT_002,Nature,Which animal is known to never sleep?,Ẹranko wo ni a mọ̀ pé kì í sùn?,Wace dabba ce aka sani ba ta taba barci?,Kedu anụmanụ a maara na ọ naghị arahụ ụra?,Bullfrog
+RT_003,Space,Which planet is closest to the Sun?,Púlánẹ́ẹ̀tì wo ló sún mọ́ oòrùn jù lọ?,Wace duniya ce tafi kusa da rana?,Kedu planet kachasị anyanwụ nso?,Mercury
+RT_004,Africa,In which country can you find the Pyramids of Giza?,Orílẹ̀-èdè wo ni a ti lè rí àwọn Pírámídì ti Giza?,A wace ƙasa ce za a iya samun firamidun Giza?,Kedu obodo ị ga-ahụ Pyramids of Giza?,Egypt
+RT_005,Nature,What is the only mammal that can truly fly?,Ẹranko afọ́mọ́lọ́mú wo ni ó lè fò nìkan?,Wace dabba mai shayarwa ce kawai take iya tashi?,Kedu anụmanụ na-enye nwa ara na-efe efe?,Bat
+RT_006,Science,What gas do plants release that humans need to breathe?,Afẹ́fẹ́ wo ni àwọn igbó ń sọ̀ sínú tí ènìyàn nílò láti mí?,Wace iska ce shuke-shuke suke fitarwa wadda mutane suke buƙata?,Kedu ikuku osisi na-emepụta nke ụmụ mmadụ chọrọ?,Oxygen
+RT_007,History,Who was the first woman to win a Nobel Prize?,Obìnrin wo ni ó kọ́kọ́ gba ẹ̀bùn Nobel?,Wace mace ce ta fara samun kyautar Nobel?,Kedu nwaanyị mbụ meriri Nobel Prize?,Marie Curie
+RT_008,Geography,Which is the largest ocean on Earth?,Òkun wo ló tóbi jù lọ lágbàáyé?,Wane teku ne mafi girma a duniya?,Kedu oke osimiri kachasị ukwuu n'ụwa?,Pacific Ocean
+RT_009,Nature,How many legs does a mosquito have?,Ẹsẹ̀ mélòó ni ẹ̀fọn ní?,Ƙafafu nawa sauro yake da shi?,Ụkwụ ole ka anwụnta nwere?,6
+RT_010,Body,What is the largest organ of the human body?,Ẹ̀yà ara wo ni ó tóbi jù lọ nínú ara ènìyàn?,Wace gaba ce tafi girma a jikin dan adam?,Kedu akụkụ ahụ kachasị ukwuu n'ahụ mmadụ?,Skin
+RT_011,Geography,Which African country has the largest population?,Orílẹ̀-èdè Áfíríkà wo ni ó ní ènìyàn jù lọ?,Wace ƙasa ce a Afirka tafi kowace yawan jama'a?,Kedu obodo dị n'Afrịka nwere mmadụ kachasị?,Nigeria
+RT_012,Space,How many moons does the planet Mars have?,Oṣù mélòó ni púlánẹ́ẹ̀tì Mars ní?,Duniyar Mars tana da wata nawa?,Ọnwa ole ka Mars nwere?,2
+RT_013,Tech,Who is the inventor of the light bulb?,Ta ni ẹni tó kọ́kọ́ ṣe gílóòbù iná?,Waye ya kera kwan fitila na lantarki?,Onye mepụtara bọlbụ ọkụ?,Thomas Edison
+RT_014,Nature,Which sea creature has three hearts?,Ẹranko inú òkun wo ni ó ní ọkàn mẹ́ta?,Wace dabbar teku ce take da zuciya uku?,Kedu anụmanụ bi na mmiri nwere obi atọ?,Octopus
+RT_015,Food,What is the main ingredient in chocolate?,Kí ni ohun èlò pàtàkì nínú ṣọ́kọ́lẹ́ẹ̀tì?,Menene babban abin da ake yin cakulan da shi?,Gịnị bụ isi ihe a na-eji eme chocolate?,Cocoa
+RT_016,Geography,Which is the smallest continent in the world?,Ilẹ̀ ayé wo ni ó kéré jù lọ?,Wace nahiya ce tafi kowace ƙanƙanta a duniya?,Kedu kọntinent kachasị obere n'ụwa?,Australia
+RT_017,Science,What is the boiling point of water in Celsius?,Kí ni ìwọ̀n ooru tí omi ń hó dé nínú Celsius?,Menene ma'aunin zafi da ruwa yake tafasa a Celsius?,"Na Celsius, ole ka mmiri na-agbanyere ọkụ na-erute?",100°C
+RT_018,Nature,Which animal can see behind itself without turning its head?,Ẹranko wo ni ó lè rí nǹkan lẹ́yìn rẹ̀ láìyí orí rẹ̀ padà?,Wace dabba ce take iya ganin bayanta ba tare da ta juyo da kanta ba?,Kedu anụmanụ na-ahụ ihe dị ya n'azụ n'atụghị anya n'azụ?,Rabbit
+RT_019,History,Which empire was led by Mansa Musa?,Ilẹ̀ ọba wo ni Mansa Musa jẹ́ olórí fún?,Wace daula ce Mansa Musa ya mulka?,Kedu alaeze Mansa Musa chịrị?,Mali Empire
+RT_020,Space,What is the sun mostly made of?,Kí ni oòrùn jẹ́ jù lọ?,Daga me aka fi yin rana?,Gịnị kachasị n'ime anyanwụ?,Gas
+RT_021,Records,Which is the tallest building in the world?,Ilé wo ni ó ga jù lọ lágbàáyé?,Wane gini ne mafi tsayi a duniya?,Kedu ụlọ kachasị ogologo n'ụwa?,Burj Khalifa
+RT_022,Nature,Do sharks have bones?,Ǹjẹ́ àwọn ẹja ṣáàkì ní egungun?,Shin kifin shark yana da kashi?,Azụ shark ọ nwere ọkpụkpụ?,No
+RT_023,Nature,Which animal is the largest mammal in the world?,Ẹranko wo ni ó tóbi jù lọ nínú gbogbo ẹranko afọ́mọ́lọ́mú?,Wace dabba ce tafi kowace girma a cikin dabbobi masu shayarwa?,Kedu anụmanụ kachasị ukwuu n'etiti anụmanụ na-enye nwa ara?,Blue Whale
+RT_024,Science,How many teeth does an adult human usually have?,Eyín mélòó ni ènìyàn tó ti dàgbà sábà máa ń ní?,Hakorin nawa ne babban mutum yake da su?,Eze ole ka onye toro eto na-enwekarị?,32
+RT_025,Geography,Which is the largest desert in the world?,Inú aginjù wo ló tóbi jù lọ lágbàáyé?,Wace hamada ce tafi kowace girma a duniya?,Kedu ọzara kachasị ukwuu n'ụwa?,Antarctica
+RT_026,Space,Which planet is known as the Morning Star?,Púlánẹ́ẹ̀tì wo ni a mọ̀ sí Ìràwọ̀ Òru?,Wace duniya ce aka sani da tauraron asuba?,Kedu planet a maara dị ka kpakpando ụtụtụ?,Venus
+RT_027,Nature,What is a group of lions called?,Kí ni a ń pe ẹgbẹ́ àwọn kìnnìún?,Me muke kiran gungun zakoki?,Gịnị ka a na-akpọ otu ọdum?,Pride
+RT_028,History,Who discovered the laws of motion and gravity?,Ta ni ẹni tó ṣàwárí òfin ìṣípòpadà àti gíráfítì?,Waye ya gano dokokin motsi da jan kasa?,Onye chọpụtara iwu nke mmegharị na gravity?,Isaac Newton
+RT_029,Records,Which is the smallest country in the world?,Orílẹ̀-èdè wo ni ó kéré jù lọ lágbàáyé?,Wace ƙasa ce tafi kowace ƙanƙanta a duniya?,Kedu obodo kachasị obere n'ụwa?,Vatican City
+RT_030,Science,How many bones are in the adult human body?,Egungun mélòó ni ó wà nínú ara ènìyàn tó ti dàgbà?,Kashi nawa ne a jikin babban mutum?,Ọkpụkpụ ole dị n'ahụ onye toro eto?,206
+RT_031,Nature,What is the only bird that can fly backwards?,Ẹyẹ wo nìkan ló lè fò sẹ́yìn?,Wane tsuntsu ne kadai zai iya tashi da baya?,Kedu nnụnụ naanị nwere ike ife azụ?,Hummingbird
+RT_032,Geography,Which country has the most islands in the world?,Orílẹ̀-èdè wo ló ní àwọn erékùṣù jù lọ lágbàáyé?,Wace ƙasa ce tafi kowace yawan tsibirai a duniya?,Kedu obodo nwere agwaetiti kachasị n'ụwa?,Sweden
+RT_033,Space,What is the largest planet in our solar system?,Púlánẹ́ẹ̀tì wo ló tóbi jù lọ nínú ètò oòrùn wa?,Wace duniya ce tafi kowace girma a tsarin ranarmu?,Kedu planet kachasị ukwuu na solar system anyị?,Jupiter
+RT_034,History,In what year did Nigeria gain independence?,Ọdún wo ni Nàìjíríà gba òmìnira?,Wace shekara ce Najeriya ta sami 'yancin kai?,Kedu afọ Naịjirịa nwetara nnwere onwe?,1960
+RT_035,Nature,What color is a polar bear's skin?,Àwọ̀ wo ni awọ ara beari funfun ní?,Wane launi ne fatar dabbar polar bear take da shi?,Kedu ụcha akpụkpọ polar bear nwere?,Black
+RT_036,Body,What is the strongest muscle in the human body?,Isan wo ni ó lágbára jù lọ nínú ara ènìyàn?,Wace tsoka ce tafi ƙarfi a jikin dan adam?,Kedu ahụ ike kachasị siri ike n'ahụ mmadụ?,Masseter (Jaw)
+RT_037,Science,What is the chemical symbol for Gold?,Kí ni àmì kẹ́míkà fún wúrà?,Menene alamar kemikal ta zinariya?,Kedu akara kemịkalụ nke ọlaedo?,Au
+RT_038,Nature,Which land animal has the longest lifespan?,Ẹranko ilẹ̀ wo ni ó ń gbé pẹ́ jù lọ?,Wace dabbar ƙasa ce tafi kowace tsawon rai?,Kedu anụmanụ nọ n'ala na-adị ndụ kachasị ogologo?,Giant Tortoise
+RT_039,Geography,Which is the tallest mountain in Africa?,Òkè wo ni ó ga jù lọ ní Áfíríkà?,Wane dutse ne mafi tsayi a Afirka?,Kedu ugwu kachasị ogologo n'Afrịka?,Mount Kilimanjaro
+RT_040,Records,Which is the deepest part of the world's oceans?,Apá wo nínú òkun ló jìn jù lọ lágbàáyé?,Wane sashi ne mafi zurfi a tekun duniya?,Kedu akụkụ kachasị omimi n'oke osimiri ụwa?,Mariana Trench
+RT_041,Space,What is the name of our galaxy?,Kí ni orúkọ ayé-ìràwọ̀ wa?,Menene sunan taurarinmu?,Gịnị bụ aha galaxy anyị?,Milky Way
+RT_042,Nature,How many arms does a starfish usually have?,Apá mélòó ni ẹja ìràwọ̀ sábà máa ń ní?,Hannu nawa kifin starfish yake da su yawanci?,Ogwe aka ole ka starfish na-enwekarị?,5
+RT_043,Food,Which country is the origin of Pizza?,Orílẹ̀-èdè wo ni pizza ti ṣẹ̀ wá?,Wace ƙasa ce asalin pizza?,Kedu obodo Pizza siri bịa?,Italy
+RT_044,Body,Which part of the eye gives it its color?,Apá wo nínú ojú ló ń fún un ní àwọ̀?,Wane sashi ne na ido yake ba shi launi?,Kedu akụkụ anya na-enye ya ụcha ya?,Iris
+RT_045,History,Who was the first person to walk on the moon?,Ta ni ẹni tó kọ́kọ́ rìn lórí oṣù?,Waye mutum na farko da ya taka wata?,Onye bụ onye mbụ ruru n'ọnwa?,Neil Armstrong
+RT_046,Science,What is the most common gas in Earth's atmosphere?,Afẹ́fẹ́ wo ni ó wọ́pọ̀ jù lọ ní ojú sánmà ayé?,Wace iska ce tafi yawa a sararin samaniya?,Kedu ikuku kachasị n'ikuku ụwa?,Nitrogen
+RT_047,Nature,What do we call a scientist who studies rocks?,Kí ni a ń pe onímọ̀ sáyẹ́ǹsì tó ń kọ́ nípa òkúta?,Me muke kiran masanin kimiya da yake nazarin duwatsu?,Gịnị ka anyị na-akpọ onye sayensị na-amụ banyere nkume?,Geologist
+RT_048,Records,What is the world's largest hot desert?,Inú aginjù gbígbóná wo ló tóbi jù lọ lágbàáyé?,Wace hamada mai zafi ce tafi kowace girma a duniya?,Kedu ọzara kachasị ọkụ n'ụwa?,Sahara Desert
+RT_049,Tech,What does WWW stand for in a website address?,Kí ni WWW dúró fún nínú àdírẹ́sì ojú-ewé íńtánẹ́ẹ̀tì?,Menene ma'anar WWW a adireshin yanar gizo?,Gịnị ka WWW pụtara na saịtị ịntanetị?,World Wide Web
+RT_050,General,How many colors are in a rainbow?,Àwọ̀ mélòó ni ó wà nínú òṣùmàrè?,Launuka nawa ne cikin bakan gizo?,Ụcha ole dị n'egwurugwu?,7
